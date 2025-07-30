@@ -1,0 +1,12 @@
+torch
+transformers
+scikit-learn
+pandas
+numpy
+nltk
+streamlit
+fastapi
+uvicorn
+matplotlib
+tqdm
+joblib
